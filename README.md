@@ -17,8 +17,8 @@ Testes - Testes unitários da API utilizando software Insomnia
 
 ### Como testar:
 
-1.Clone este repositório.
-2.Execute o script de criação e população do banco de dados para garantir que os dados de teste estejam presentes.
-3.Implemente as funcionalidades conforme descrito acima.
-4.Utilize ferramentas de teste de API ou frameworks de testes automatizados para verificar o funcionamento das operações CRUD.
-5.Certifique-se de que todas as operações CRUD estão funcionando conforme o esperado, e que as funcionalidades adicionais foram implementadas corretamente.
+1. Clone este repositório.
+2. Execute o script de criação e população do banco de dados para garantir que os dados de teste estejam presentes.
+3. Implemente as funcionalidades conforme descrito acima.
+4. Utilize ferramentas de teste de API ou frameworks de testes automatizados para verificar o funcionamento das operações CRUD.
+5. Certifique-se de que todas as operações CRUD estão funcionando conforme o esperado, e que as funcionalidades adicionais foram implementadas corretamente.
