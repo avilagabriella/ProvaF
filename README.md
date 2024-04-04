@@ -1,20 +1,20 @@
-# `Prova Formativa de PWBE`
+#Prova Formativa de PWBE
 Objetivo
 O objetivo deste desafio é praticar o desenvolvimento de operações CRUD em um contexto de banco de dados, além de implementar funcionalidades adicionais conforme requisitos específicos. Certifique-se de que seu código seja organizado, modularizado e siga boas práticas de programação.
 
-## `Utilidades:`
+## Utilidades:
 API - Criação de API (Plataforma de Interface de Aplicação)
 CRUD - Funcionalidades de Cadastro, consulta, alteração e exclusão
 MVC - Padrão de projeto (Modelo, Visão e Controle)
 Testes - Testes unitários da API utilizando software Insomnia
 
-## `Funcionalidades a serem desenvolvidas:`
+## Funcionalidades a serem desenvolvidas:
 - CRUD de Funcionários
 - CRUD de Telefones
 - CRUD de Veículos
 - CRUD de Manutenções
 
-### `Como testar:`
+### Como testar:
 
 1.Clone este repositório.
 2.Execute o script de criação e população do banco de dados para garantir que os dados de teste estejam presentes.
